@@ -1,5 +1,5 @@
-echo "# repo11" >> README.md
-git init
+echo "# repo11" >> README.md ---> Tester is great
+git init --> developers are useless
 git add README.md
 git commit -m "first commit"
 git branch -M main
